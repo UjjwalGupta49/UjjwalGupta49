@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UjjwalGupta49
 - 👀 I’m interested in Blockchain Application Development, NFTs, Machine Learning, Tensorflow 
-- 🌱 I’m currently learning Solana, React.js
+- 🌱 I’m currently learning Solana, React.js, Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: ujjwalg056@gmail.com
 
