@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UjjwalGupta49
 - 👀 I’m interested in Blockchain Application Development, NFTs, Machine Learning, Tensorflow 
-- 🌱 I’m currently learning Solana, React.js, Rust
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Solana, React.js, Rust 
+- 🛠 Building: [Bounty Bot](https://twitter.com/thebountybot) | [solana-base-app](https://github.com/UjjwalGupta49/solana-base-app) | [DisWallet ](https://twitter.com/DisWalletBot)| [attend.bio](https://attend.bio/)
 - 📫 Email: ujjwalg056@gmail.com
