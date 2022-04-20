@@ -36,9 +36,3 @@ Attend.bio is a platfrom for community created POAPs (Proof of Attendance Protoc
 
 [solana-roulete](https://github.com/UjjwalGupta49/solana-roulete)<br/>
 Roullete game on Solana with upredictable outcomes.
-
-
-
-
-    
-  
