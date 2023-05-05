@@ -27,8 +27,6 @@ try using `npx solana-base-app react my-app`
 Wordcel is a Decentralized Publishing Stack on Solana that enables creators to publish, distribute and monetise their work on-chain with absolute freedom and ownership.<br/>
 > [Wordcel](https://www.wordcel.club/) won the Web3 track for the Solana Riptide hackathon, its the first project under the [FTX Superteam](https://www.ftxsuperteam.com/) program. ✔️
 
-[DisWallet](https://diswallet.app/)<br/>
-DisWallet makes it easier to do fast and secured transactions with your community members in just a few simple commands.
 
 [attend.bio](https://attend.bio/)<br/>
 Attend.bio is a platfrom for community created POAPs (Proof of Attendance Protocol) on Solana.<br/>
