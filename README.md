@@ -22,15 +22,3 @@ such as wallet-adapter, token balance, airdrops, transaction, **solana-pay**.<br
 solana-base-app helps new developers onboard to the solana ecosystem with minimum resistance and provides vetran galss-eaters a sandbox with modular react components to build upon.<br/> 
 try using `npx solana-base-app react my-app`
 > solana-base-app was featured at [soldev.app](https://soldev.app/library/scaffolds) and has helped 300+ developers with their solana journey. ✨
-
-[Wordcel](https://www.wordcel.club/)<br/>
-Wordcel is a Decentralized Publishing Stack on Solana that enables creators to publish, distribute and monetise their work on-chain with absolute freedom and ownership.<br/>
-> [Wordcel](https://www.wordcel.club/) won the Web3 track for the Solana Riptide hackathon, its the first project under the [FTX Superteam](https://www.ftxsuperteam.com/) program. ✔️
-
-
-[attend.bio](https://attend.bio/)<br/>
-Attend.bio is a platfrom for community created POAPs (Proof of Attendance Protocol) on Solana.<br/>
-> [attend.bio](https://attend.bio/) is being used at Solana hacker house Banglore as POAPs provider 💡
-
-[solana-roulete](https://github.com/UjjwalGupta49/solana-roulete)<br/>
-Roullete game on Solana with upredictable outcomes.
