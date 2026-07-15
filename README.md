@@ -1,4 +1,4 @@
-## Work by [Ujjwal Gupta](https://twitter.com/ujjwalgupta49)<br/> (ujjwal49.xyz)
+## Work by [Ujjwal Gupta](https://twitter.com/ujjwalgupta49) (ujjwal49.xyz)
 
 [![Visit ujjwal49.xyz](./assets/website-preview.png)](https://ujjwal49.xyz/)
 
